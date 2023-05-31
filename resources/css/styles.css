@@ -49,6 +49,9 @@ header{
     color: #FC200C;
 }
 
+nav {
+    display: flex;
+}
 header ul li{
     padding-right: 13px;
 }
