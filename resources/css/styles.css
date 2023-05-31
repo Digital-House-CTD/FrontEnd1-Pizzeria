@@ -68,6 +68,8 @@ aside{
 }
 aside>img{
     background-size: cover;
+    background-color: #E5E5E5;
+
 }
 h2{
     font-size: 24px;
